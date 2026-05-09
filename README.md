@@ -1,4 +1,4 @@
-**Tetris Game Review Rating Prediction**
+# **Tetris Game Review Rating Prediction**
 
 This project was developed as a midterm project for the Text Mining course, focusing on sentiment and rating prediction using user reviews from the Tetris mobile game on Google Play Store. The objective was to analyze user-generated text reviews and build machine learning models capable of predicting review ratings based on textual patterns and sentiment. 
 
